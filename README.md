@@ -1,6 +1,5 @@
 ## Oie, Arthur aqui. Sou estudande de desenvolvimento Web Full Stack, concluindo o módulo Front-End. Bom ver você aqui. 
-<br>
-## Hey, Arthur here. I'm studing Full Stack Web development, concluding the firts module, Front End. Good to see you here.
+### Hey, Arthur here. I'm studing Full Stack Web development, concluding the firts module, Front End. Good to see you here.
 
 <div align="center"><br>
 <a href="https://github.com/TioArthurPrado">
